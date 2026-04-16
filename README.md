@@ -1,5 +1,3 @@
-Libply
-
 Inspired by the resilient spirit of Libya, forged in the sands of innovation.
 
 This project, codenamed "PC Killer," is a proof-of-concept virus designed to simulate destructive behavior on a target system. Built with the #libply library, it showcases advanced techniques in system manipulation, file corruption, and resource overload. Drawing inspiration from the enduring strength of Libyan heritage, this tool embodies the raw, unyielding power of the desert storm—striking hard and leaving chaos in its wake.
